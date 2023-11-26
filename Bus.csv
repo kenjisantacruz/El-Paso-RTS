@@ -1,0 +1,26 @@
+﻿Bus Number,Bus Name,Load (MW),EV Charging Station Type
+1,Rio Grande Power Plant,0,
+2,Cromo,101.85,Public
+3,Mesa,150.75,Residential
+4,Dallas,87.7,Workplace
+5,Ascarate,75.5,Workplace
+6,Copper Power Station,0,
+7,PD,131.25,Workplace
+8,Austin,79.55,Public
+9,Dyer,175.75,Residential
+10,Fort Bliss,250.75,Workplace
+11,Scotsdale,55.25,Public
+12,Mann,77.7,Public
+13,Vista,75.5,Workplace
+14,Lane,84.5,Public
+15,Diamond Head,78.75,Public
+16,Horizon,105.1,Residential
+17,Montwood,142.8,Public
+18,Caliente,99.65,Workplace
+19,GR,78.75,
+20,Picante,55.65,
+21,Biggs,75,
+22,Shearman,89.5,Residential
+23,Milagro,101.75,Residential
+24,Newman Power Plant,0,
+25,Luna,0,
