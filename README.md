@@ -20,6 +20,8 @@ The repository includes data for the RTS-El-Paso test system, which is used to s
 
 ## How to cite
 
+If you want to cite [[1]](https://ieeexplore.ieee.org/document/10318590) or [[2]](https://github.com/kenjisantacruz/RTS-El-Paso), please use the following:
+
 * Article:
 ```
 @article{ieeexplore,
