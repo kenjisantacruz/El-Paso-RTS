@@ -10,7 +10,7 @@ For additional details regarding the derivation and applications of the test sys
 
 ## Contents
 
-The repository includes data for the RTS-El-Paso test system, which is used to simulate the operations of the power system through optimization models such as unit commitment and economic dispatch. The proposed test system includes 25 buses and 40 transmission lines. In addition, the system was modified to include natural gas combined cycle (CC) and combustion turbine (CT) generators as well as solar energy facilities. Finally, the generators from the Palo Verde Nuclear Generating Station were also provided to serve the base load. The RTS-El-Paso data folder contains data in an open csv format.
+The repository includes data for the RTS-El-Paso test system, which is used to simulate the operations of the power system through optimization models such as unit commitment and economic dispatch. The proposed test system includes 25 buses and 40 transmission lines. In addition, the system was modified to include natural gas combined cycle (CC) and combustion turbine (CT) generators as well as solar energy facilities. Finally, the generators from the Palo Verde Nuclear Generating Station were also provided to serve the base load. The RTS-El-Paso data folder contains data in a csv format.
 
 ## References
 
