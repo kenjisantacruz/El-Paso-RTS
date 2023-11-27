@@ -43,6 +43,6 @@ year = {2023}
 
 ## Contributors
 
-* [Kenji Santacruz](https://www.linkedin.com/in/kenjisantacruz/) - kenjisantacruz@gmail.com
+* [Kenji Santacruz](https://orcid.org/0000-0002-5812-057X) - kenjisantacruz@gmail.com
 
 If you are interested in contributing to this repository, feel free to send me an email.
