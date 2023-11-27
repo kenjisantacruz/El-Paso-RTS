@@ -22,7 +22,7 @@ The repository includes data for the RTS-El-Paso test system, which is used to s
 
 * Article:
 ```
-@article{pineda2020data,
+@article{ieeexplore,
   title={Reducing Marginal Emissions in Power Systems with Distributed Flexible AC Transmission Systems},
   author={Eduardo Castillo, Kenji Santacruz, Haveeair Caballero, and Yuanrui Sang},
   journal={2023 North American Power Symposium (NAPS)},
@@ -32,7 +32,7 @@ The repository includes data for the RTS-El-Paso test system, which is used to s
 ```
 * Repository:
 ```
-@article{IEEE96_2019,
+@article{RTS-El-Paso,
 author = {Powerful Lab},
 journal = {GitHub repository (https://github.com/kenjisantacruz/RTS-El-Paso)},
 title = {{RTS-El-Paso}},
