@@ -16,7 +16,7 @@ The repository includes data for the RTS-El-Paso test system, which is used to s
 
 [1] E. Castillo, K. Santacruz, H. Caballero, and Y. Sang, “Reducing Marginal Emissions in Power Systems with Distributed Flexible AC Transmission Systems,” 2023 North Am. Power Symp., pp. 1–6, doi: 10.1109/NAPS58826.2023.10318590.
 
-[2] Powerful Lab, RTS-El-Paso, Github repository (https://github.com/kenjisantacruz/RTS-El-Paso) , 2023.
+[2] Powerful Lab, RTS-El-Paso, Github repository (https://github.com/kenjisantacruz/RTS-El-Paso), 2023.
 
 ## How to cite
 
